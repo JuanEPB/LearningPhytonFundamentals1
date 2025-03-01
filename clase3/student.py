@@ -27,7 +27,7 @@ if _name_ == '_main_':
     print(Student.get_total_students())
     print(Student.get_total_students_class())
 
-    estudiante.name = 'Rafa'
+    estudiante.name = 'Juan'
     # print(estudiante)
 
     estudiante2 = Student('Eduardo', 30, 7, 'madrid')
